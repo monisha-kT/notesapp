@@ -22,6 +22,6 @@ CSS – For styling the UI and improving the visual appeal.
 Sample output:
 ![image](https://github.com/user-attachments/assets/843b402b-b913-49b3-bf8e-22af84bf5a60)
 ![image](https://github.com/user-attachments/assets/f3d4691c-24b6-4f12-a5ca-d4730fc2c29a)
-![image](https://github.com/user-attachments/assets/919b2f5e-1502-4b93-a25f-3aebacca3055)
+
 
 
